@@ -23,3 +23,14 @@ performance threshold.
 ## Assumptions & Limitations
 The production model registry is simulated using a local JSON file. Cloud deployment,
 CI/CD pipelines, and monitoring are outside the scope of this assessment.
+
+## Reflection
+
+Using a coding assistant helped me significantly speed up development, especially
+when structuring the ML pipeline and implementing the conditional deployment logic.
+It was particularly useful for debugging errors and understanding MLOps best
+practices conceptually. In a few cases, the assistant’s suggestions required manual
+adjustments to suit the execution environment, which highlighted the importance of
+developer judgment. Overall, the assistant improved productivity while still requiring
+me to validate logic and decisions carefully.
+
